@@ -49,13 +49,14 @@ stock-price-prediction/
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/stock-price-prediction.git
+git clone https://github.com/Assasin1202/NTT_Stock_Prediction.git
+
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd stock-price-prediction
+cd NTT_Stock_Prediction
 ```
 
 Install the necessary dependencies:
